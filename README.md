@@ -27,25 +27,25 @@ E diante do exposto acima, iremos estudar as aplicações do _NLP_, desde arquit
 ## 2. **Plano de Estudos**
 
 - **Módulo I**: Fundamentos e Pré-processamento
- - Teoria: Linguística Computacional (Morfologia, Sintaxe, Semântica e Pragmática).
- - Prática: Tokenização, Stemming/Lematização, Stop words e Part-of-Speech (PoS) Tagging.
+    - Teoria: Linguística Computacional (Morfologia, Sintaxe, Semântica e Pragmática).
+    - Prática: Tokenização, Stemming/Lematização, Stop words e Part-of-Speech (PoS) Tagging.
 
 - **Módulo II**: Representação Vetorial (Embeddings)
- - Técnicas Clássicas: TF-IDF e Bag-of-Words (BoW).
- - Deep Learning Inicial: Word2Vec (Skip-gram e CBOW), GloVe e FastText.
+    - Técnicas Clássicas: TF-IDF e Bag-of-Words (BoW).
+    - Deep Learning Inicial: Word2Vec (Skip-gram e CBOW), GloVe e FastText.
 
 - **Módulo III**: Arquiteturas de Sequência
- - Modelos Recorrentes: RNNs, LSTMs (Long Short-Term Memory) e GRUs.
- - Mecanismos de Encoder-Decoder: Tradução automática e Seq2Seq.
+    - Modelos Recorrentes: RNNs, LSTMs (Long Short-Term Memory) e GRUs.
+    - Mecanismos de Encoder-Decoder: Tradução automática e Seq2Seq.
 
 - **Módulo IV**: A Revolução dos Transformers
- - Mecanismo de Atenção: Self-attention e Multi-head attention.
- - Modelos Pré-treinados: BERT (Encoder-only), GPT (Decoder-only) e T5 (Encoder-Decoder).
- - Fine-tuning: Ajuste de modelos gigantes para tarefas específicas.
+    - Mecanismo de Atenção: Self-attention e Multi-head attention.
+    - Modelos Pré-treinados: BERT (Encoder-only), GPT (Decoder-only) e T5 (Encoder-Decoder).
+    - Fine-tuning: Ajuste de modelos gigantes para tarefas específicas.
 
 - **Módulo V**: MLOps para NLP
- - Deployment: Servir modelos via APIs (FastAPI/Docker).
- - Monitoramento: Drift de dados textuais e métricas de performance (BLEU, ROUGE, F1-Score).
+    - Deployment: Servir modelos via APIs (FastAPI/Docker).
+    - Monitoramento: Drift de dados textuais e métricas de performance (BLEU, ROUGE, F1-Score).
 
 ---
 
